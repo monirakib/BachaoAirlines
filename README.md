@@ -1,6 +1,6 @@
 # Bachao Airlines
 
-A flight booking web application built with the Laravel framework, converted from an original raw-PHP prototype. Customers can search flights, book seats, apply travel insurance, earn reward points, and manage their membership tier; admins get a full back-office panel to manage flights, users, and bookings.
+A flight booking web application built with the Laravel framework. Customers can search flights, book seats, apply travel insurance, earn reward points, and manage their membership tier; admins get a full back-office panel to manage flights, users, and bookings.
 
 ## Features
 
